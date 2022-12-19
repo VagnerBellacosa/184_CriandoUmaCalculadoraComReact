@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Hands-on: Criar Uma Calculadora Com React](https://web.dio.me/lab/calculadora/learning/1a2abe59-0b6c-4a90-b291-067eb708c5c1)[Entendendo o Desafio](https://web.dio.me/lab/calculadora/learning/89d36230-0ad5-4235-9c16-9691a26e6c96)
+- [Hands-on: Criar Uma Calculadora Com React](https://web.dio.me/lab/calculadora/learning/1a2abe59-0b6c-4a90-b291-067eb708c5c1)
+- [Entendendo o Desafio](https://web.dio.me/lab/calculadora/learning/89d36230-0ad5-4235-9c16-9691a26e6c96)
 
 
 
